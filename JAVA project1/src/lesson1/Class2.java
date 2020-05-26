@@ -9,14 +9,14 @@ public class Class2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int X = 10;
-		if (X != 20) {
+		if (X != 30) {
 			System.out.println("yes X == 10");
 		}
 		else {
 			System.out.println("no X != 10");
 		}
 		// && = and     || = or
-		int A =35;
+		int A =65;
 		int B = 50;
 		if ((A >=35) && (B >=45)){
 			System.out.println("THE CONDITION IS TRUE");
